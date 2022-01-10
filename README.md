@@ -22,3 +22,8 @@ Personally, I have a folder for "Designer Library" with nodes and whatnot and a 
 Provided your librarys are all set, just make a new project and your template should be one of the options
 
 ![Usage](Images/Use.PNG?raw=true "Usage")
+
+On export, just toggle off the "Materials" section if you only want the useful stuff, as they're for automatic viewing's sake.
+One thing to note is that I pack Height into the non-RMO channels of the masks, but I distributed the sbs so you can change whatever you like
+
+![Exporting](Images/Export.PNG?raw=true "Exporting")
