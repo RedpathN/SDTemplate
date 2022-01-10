@@ -15,6 +15,10 @@ Also ensure a path to CustomDefault under Preferences -> Projects -> General -> 
 
 Personally, I have a folder for "Designer Library" with nodes and whatnot and a subfolder for templates, and just throw all my things in there as follows:
 
-
 ![LibraryDir](Images/LibraryDir.PNG?raw=true "LibraryDir")
 ![TemplatesDir](Images/TemplatesDir.PNG?raw=true "TemplatesDir")
+
+# Use
+Provided your librarys are all set, just make a new project and your template should be one of the options
+
+![Usage](Images/Use.PNG?raw=true "Usage")
